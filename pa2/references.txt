@@ -1,0 +1,7 @@
+https://numpy.org/doc/stable/reference/generated/numpy.zeros.html#numpy.zeros
+https://coin-or.github.io/pulp/CaseStudies/a_blending_problem.html
+https://www.youtube.com/watch?v=SEliDY4wyB0
+https://www.youtube.com/watch?v=j-53_lW_we8
+https://numpy.org/doc/stable/reference/generated/numpy.linalg.inv.html
+https://numpy.org/doc/stable/reference/generated/numpy.matmul.html
+https://stackoverflow.com/questions/7974849/how-can-i-make-one-python-file-run-another

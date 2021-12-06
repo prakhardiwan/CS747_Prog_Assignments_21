@@ -1,0 +1,11 @@
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html
+https://numpy.org/doc/stable/reference/generated/numpy.zeros.html
+https://numpy.org/doc/stable/reference/generated/numpy.linspace.html#numpy.linspace
+https://numpy.org/doc/stable/reference/generated/numpy.sum.html
+https://numpy.org/doc/stable/reference/generated/numpy.digitize.html
+https://numpy.org/doc/stable/reference/generated/numpy.argmax.html
+https://numpy.org/doc/stable/reference/generated/numpy.tile.html
+
+Lecture Slides
+Documentation of OpenAI Gym
+
